@@ -1,0 +1,7 @@
+astsadata==0.0.4
+matplotlib==3.4.2
+numpy==1.20.3
+pandas==1.2.4
+rpy2==3.4.4
+scipy==1.6.3
+statsmodels==0.12.2
